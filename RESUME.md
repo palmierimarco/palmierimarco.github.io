@@ -7,7 +7,7 @@ Senior Network Engineer
 ## Work Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### TS Implementation Engineer (L4) Tech Lead @ [NTT DATA](https://www.linkedin.com/company/ntt-data-inc)
+### TS Implementation Engineer (L4) Tech Lead, [NTT DATA](https://www.linkedin.com/company/ntt-data-inc)
 *April 2023 - Present*
 :::
 
@@ -24,7 +24,7 @@ ServiceGraph (L3 PBR)
 Continue my networking studies focused on routing/switching in the Data Center environment and expand my knowledge in the Cloud and network automation.
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### Cisco Academy Instructor CCNA and CCNP @ [Eforhum](https://www.linkedin.com/company/eforhum)
+### Cisco Academy Instructor CCNA and CCNP, [Eforhum](https://www.linkedin.com/company/eforhum)
 *January 2019 - Present*
 :::
 
