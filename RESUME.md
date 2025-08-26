@@ -2,7 +2,7 @@
 Senior Network Engineer
 | [palmieri.marco@protonmail.com](mailto:palmieri.marco@protonmail.com)
 | [+39 3914746180](tel:+393914746180)
-| [linkedin.com/in/palmierimarco1984](https://www.linkedin.com/in/palmierimarco1984/)
+| [Linkedin](https://www.linkedin.com/in/palmierimarco1984/)
 
 ## Work Experience
 
