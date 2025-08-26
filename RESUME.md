@@ -5,10 +5,12 @@ Senior Network Engineer
 | [Linkedin](https://www.linkedin.com/in/palmierimarco1984/)
 
 ## Work Experience
+
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### TS Implementation Engineer (L4) Tech Lead @ [NTT DATA](https://www.linkedin.com/company/ntt-data-inc)
 *April 2023 - Present*
 :::
+
 - Design and implementation of DataCenter networks on Cisco ACI multipod/multisite technology with VMware integration (VMM Domain) and insertion of L4-L7
 ServiceGraph (L3 PBR)
 - Design of DataCenter for Disaster Recovery and Business Continuity
@@ -21,8 +23,11 @@ ServiceGraph (L3 PBR)
 > Future goals: <br>
 Continue my networking studies focused on routing/switching in the Data Center environment and expand my knowledge in the Cloud and network automation.
 
-### Cisco Academy Instructor CCNA and CCNP
-#### Eforhum Human Development | *January 2019 - Present*
+::: {.d-flex .justify-content-between .flex-wrap}
+### Cisco Academy Instructor CCNA and CCNP @ [Eforhum](https://www.linkedin.com/company/eforhum)
+*January 2019 - Present*
+:::
+
 - Cisco instructor for CCNA and CCNP course at Eforhum Milan
 
 ### Network Engineer
