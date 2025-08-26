@@ -6,6 +6,13 @@ Senior Network Engineer
 
 ## Work Experience
 
+## [Wor]{.char-color}k Experience
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
+*Apr 2021 - Present*
+:::
+
 ### TS Implementation Engineer (L4) Tech Lead
 #### NTT Italy S.p.A. (Global NTT) | *April 2023 - Present*
 - Design and implementation of DataCenter networks on Cisco ACI multipod/multisite technology with VMware integration (VMM Domain) and insertion of L4-L7
