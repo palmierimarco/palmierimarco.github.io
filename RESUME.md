@@ -87,7 +87,7 @@ logistics
 
 ## Education
 
-### High school diploma: Electronic and Telecommunications industries Technician @ IPSIA Ercole Marelli, Milan
+### High school diploma in Electronic and Telecommunications @ IPSIA Ercole Marelli, Milan
 *1999 - 2005*
 
 - I learned all the fundamentals of digital electronics, from schematic and signal analysis to Boolean algebra for logic circuit design and Assembler programming, including various wired/wireless telecommunications technologies and the ISO-OSI model.
@@ -137,8 +137,8 @@ logistics
 - English: A2
 
 ## Interests
+- Technology
 - Hiking
 - Kayaking
-- Technology
 - Photography
 - Martial arts
