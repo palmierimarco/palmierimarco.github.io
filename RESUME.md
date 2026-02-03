@@ -1,6 +1,6 @@
 # Marco Palmieri
 Senior Network Engineer
-| [palmieri.marco@protonmail.com](mailto:palmieri.marco@protonmail.com)
+| [palmieri.marco@outlook.it](mailto:palmieri.marco@outlook.it)
 | [+39 3914746180](tel:+393914746180)
 | [Linkedin](https://www.linkedin.com/in/palmierimarco1984/)
 
